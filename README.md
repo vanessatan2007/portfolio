@@ -1,1 +1,3 @@
-# portfolio
+This is my personal portfolio website
+I want to take this opportunity to learn HTML & CSS and React while building a website to showcase my projects
+08/06/24: I started on my personal website today. I started off by making a nav bar where I decided what I wanted my website to showcase. Through this, I learned how to make a nav bar by using unordered bulleted lists and how to link to other html files. In my next session, I aim to design what I want my UI to look like and add some more pizazz to the website! -vt
